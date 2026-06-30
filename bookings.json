@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1782642062151,
+    "name": "Raashid maqsood",
+    "phone": "917364950732",
+    "date": "2027-08-26",
+    "eventType": "Walima",
+    "guests": "400-500",
+    "totalAmount": "13000",
+    "advancePaid": "1000",
+    "remainingBalance": 12000,
+    "requirements": "AC hall",
+    "status": "Approved",
+    "createdAt": "28/6/2026, 3:51:02 pm"
+  }
+]
