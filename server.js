@@ -60,7 +60,7 @@ function generateBill(booking) {
 
     // Header
     doc.fontSize(22)
-       .text("MARRIAGE HALL BOOKING RECEIPT", {
+       .text("SIWANI MARRIAGE HALL BOOKING RECEIPT", {
            align: "center"
        });
 
